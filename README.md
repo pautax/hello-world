@@ -1,1 +1,1 @@
-# hello-world è una prova pe4r capire github
+# hello-world è una prova per capire github
